@@ -27,4 +27,4 @@ Make sure you have the following installed on your machine:
    npm install
    npm run dev
    ```
-   The project will start on port 3000. Visit (http://localhost:3000/)
+   The project will start on port 3000. Visit: http://localhost:3000/
