@@ -1,6 +1,6 @@
 # Count Button App
 
-This is a simple React application that includes a button which increments a count each time it's clicked.
+This is a simple React + Tailwind CSS application that includes a button which increments a count each time it's clicked.
 
 ## Getting Started
 
